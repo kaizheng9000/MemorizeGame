@@ -31,7 +31,7 @@ struct CardView: View{
                     .foregroundColor(.white)
                 RoundedRectangle(cornerRadius: 12)
                     .strokeBorder(lineWidth: 2)
-                Text("👻").font(.largeTitle)
+                Text("🤬").font(.largeTitle)
             } else {
                 RoundedRectangle(cornerRadius: 12)
             }
